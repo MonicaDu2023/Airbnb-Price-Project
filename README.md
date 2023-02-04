@@ -1,1 +1,2 @@
 # Airbnb-Price-Project
+Through the analysis of the Boston Aribnb listing dataset, We could have a macro understanding of Aribnb in New York and can find more details in the data set, such as the distribution of prices and room types, etcBy applying data to three ML Algorithms, which are Liner Regression, Random Forest Regression and Decision Tree Regression, we found that the Random Forest Regression has the best performance. Random Forest has the highest R-squared score and lowest MSE score. 
